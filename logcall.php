@@ -74,8 +74,7 @@ mysql_close($con);
 	<tr>
 		<td align="right">Location:</td>
 		<td><p><input type="text" name="Location"></p></td>
-	</tr>
-				
+	</tr>		
 			<tr></tr>
 	<tr>
 		<td align="right" class="td_label">Incident Type:</td>
